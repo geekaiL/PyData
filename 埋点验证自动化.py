@@ -31,3 +31,4 @@ remove_list = ['id','project','page','event','eventtime','createtime','count']
 for rm_item in remove_list:
     a.remove(rm_item)
 func(a)
+# 试一下GitHub
